@@ -19,12 +19,11 @@ hogeを実引数としてCallメソッドを使用しています。
 
 ```lambda.call("hoge")```  
 ```=> Hello hoge```  
-
 <br />
-```
-proc.call('hoge')  
-=> Hello hoge  
-```
+<br />
+```proc.call('hoge')```  
+```=> Hello hoge```  
+
 <br />
 <br />
 ここまでは、lambdaとProcは完全に同じ動作をしています。しかし、実引数をしっかりと渡さなかった場合、違いが出ます。
