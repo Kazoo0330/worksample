@@ -27,8 +27,8 @@ hogeを実引数としてCallメソッドを使用しています。
 <br />
 ここまでは、lambdaとProcは完全に同じ動作をしています。しかし、実引数をしっかりと渡さなかった場合、違いが出ます。
 <br />
-```lambda.call()```  
-```=> ArgumentError: wrong number of arguments (0 for 1)```  
+```lambda.call()  
+=> ArgumentError: wrong number of arguments (0 for 1)```  
 <br />
 ```proc.call()```  
 ```=> Hello```  
