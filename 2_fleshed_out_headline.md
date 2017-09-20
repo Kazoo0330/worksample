@@ -16,6 +16,7 @@ proc = Proc.new { |hoge| puts "Hello #{hoge}" }
 
 <br />
 hogeを実引数としてCallメソッドを使用しています。  
+
 lambda.call("hoge")  
 => Hello hoge  
 
