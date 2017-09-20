@@ -21,7 +21,7 @@ hogeを実引数としてCallメソッドを使用しています。
 ```=> Hello hoge```  
 
 <br />
-
+```proc.call('hoge')```  
 ```=> Hello hoge```  
 <br />
 <br />
