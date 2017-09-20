@@ -5,7 +5,7 @@ Rubyでlambdaを使用する場合、
 
 クラスメソッドを使用すると、lambdaはProcクラスのインスタンスであることがわかると思います。  
 ```lambda.class  
-=> Proc.  ```
+=> Proc. ```
 
 * lambdaとProcの違いについて  
 lambdaはメソッドのように動作する一方、Procはブロックのように動作します。　lambdaとProcでは実引数の扱い方が違います。実例を見てみましょう。  
