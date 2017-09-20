@@ -1,5 +1,5 @@
 ### lambda(ラムダ)について
-lambdaは別名"無名関数"とも呼ばれます。  Rubyでlambdaを使用する場合、  
+Rubyでlambdaを使用する場合、  
 lambda = lambda {}  または、  
 lmabda = ->() {}  ともできます。  
 
@@ -12,14 +12,17 @@ lambdaはメソッドのように動作する一方、Procはブロックのよ�
 
 lambda = -> (hoge) { puts "Hello #{hoge}"}  
 
-proc = Proc.new { |hoge| puts "Hello #{hoge}" } 
+proc = Proc.new { |hoge| puts "Hello #{hoge}" }  
+
 <br />
 hogeを実引数としてCallメソッドを使用しています。  
 lambda.call("hoge")  
 => Hello hoge  
+
 <br />
 proc.call("hoge")  
 => Hello hoge  
+
 <br />
 ここまでは、lambdaとProcは完全に同じ動作をしています。しかし、実引数をしっかりと渡さなかった場合、違いが出ます。
 <br />
