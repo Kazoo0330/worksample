@@ -7,7 +7,8 @@ Rubyでlambdaを使用する場合、
 ```lambda.class```  
 ```=> Proc. ```
 
-** lambdaとProcの違いについて  
+**lambdaとProcの違いについて  
+
 lambdaはメソッドのように動作する一方、Procはブロックのように動作します。　lambdaとProcでは実引数の扱い方が違います。実例を見てみましょう。  
 
 ```lambda = -> (hoge) { puts "Hello #{hoge}"}```  
