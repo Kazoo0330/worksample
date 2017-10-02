@@ -40,7 +40,8 @@ moduleとはクラスとほとんど同じものですが、クラスのよう�
 
 - クラス変数  
 クラス変数とは、クラスを元に作成されたすべてのインスタンスで使用することのできる変数です。  
-https://github.com/Kazoo0330/worksample/blob/master/image3.JPG?raw=true  
+
+(クラス変数の図）https://github.com/Kazoo0330/worksample/blob/master/image3.JPG?raw=true  
 
 <br />  
 クラス変数の記述法：  
@@ -48,7 +49,9 @@ https://github.com/Kazoo0330/worksample/blob/master/image3.JPG?raw=true
 <br />  
 - インスタンス変数  
 クラス変数に対しインスタンス変数とは、クラスを元に作成されたそれぞれのインスタンスが固有で持つ変数です。クラス変数とは違い、複数のインスタンスそれぞれが違った固有のインスタンス変数及び処理（機能）を持っている状態です。  
-https://github.com/Kazoo0330/worksample/blob/master/image2.JPG?raw=true  
+
+（インスタンス変数の図）https://github.com/Kazoo0330/worksample/blob/master/image2.JPG?raw=true  
+
 
 <br />  
 インスタンス変数の記述法：  
