@@ -58,7 +58,7 @@ https://github.com/Kazoo0330/worksample/blob/master/image3.JPG?raw=true
 https://github.com/Kazoo0330/worksample/blob/master/image2.JPG?raw=true  
 <br />  
 インスタンス変数の記述法：  
-**@instance_hoge = 'instandce_hoge'**  
+**@instance_hoge = 'instance_hoge'**  
 <br />  
 \_＊この変数にアクセスできるのは、initializeメソッドとオブジェクトであるインスタンスメソッドのみです。\_  
 <br />  
