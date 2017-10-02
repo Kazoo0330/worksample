@@ -19,7 +19,7 @@ lambdaを学ぶ前に、必ず理解しておかなければならない項目�
 インスタンス  = 設計図（クラス）を元に作成されたもの  
 
 （クラス、インスタンスの図）  
-https://github.com/Kazoo0330/worksample/blob/master/image1changed.JPG?raw=true
+https://i.gyazo.com/99cfd88e063d91950c122f3e87521869.png
 
 <br />  
 
@@ -43,7 +43,7 @@ moduleとはクラスとほとんど同じものですが、クラスのよう�
 クラス変数とは、クラスを元に作成されたすべてのインスタンスで使用することのできる変数です。  
 
 (クラス変数の図)  
-https://github.com/Kazoo0330/worksample/blob/master/image3.JPG?raw=true  
+https://i.gyazo.com/6f67aeb76011510401f48d10376af720.png  
 
 <br />  
 
@@ -55,10 +55,10 @@ https://github.com/Kazoo0330/worksample/blob/master/image3.JPG?raw=true
 クラス変数に対しインスタンス変数とは、クラスを元に作成されたそれぞれのインスタンスが固有で持つ変数です。クラス変数とは違い、複数のインスタンスそれぞれが違った固有のインスタンス変数及び処理（機能）を持っている状態です。  
 
 （インスタンス変数の図）  
-https://github.com/Kazoo0330/worksample/blob/master/image2.JPG?raw=true  
+https://i.gyazo.com/5549502b4e6f1bc278a6c806f0bf50ec.png  
 <br />  
 インスタンス変数の記述法：  
-**@instance_hoge = 'instance_hoge'**  
+**@instance_hoge = 'instandce_hoge'**  
 <br />  
 \_＊この変数にアクセスできるのは、initializeメソッドとオブジェクトであるインスタンスメソッドのみです。\_  
 <br />  
