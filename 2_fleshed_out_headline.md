@@ -19,7 +19,7 @@ lambdaを学ぶ前に、必ず理解しておかなければならない項目�
 インスタンス  = 設計図（クラス）を元に作成されたもの  
 
 （クラス、インスタンスの図）  
-https://github.com/Kazoo0330/worksample/blob/master/image1.JPG?raw=true
+https://github.com/Kazoo0330/worksample/blob/master/image1changed.JPG?raw=true
 
 <br />  
 
