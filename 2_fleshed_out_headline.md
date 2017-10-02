@@ -18,6 +18,9 @@ lambdaを学ぶ前に、必ず理解しておかなければならない項目�
 クラス = 設計図  
 インスタンス  = 設計図（クラス）を元に作成されたもの  
 
+（クラス、インスタンスの図）  
+https://github.com/Kazoo0330/worksample/blob/master/image1.JPG?raw=true
+
 <br />  
 
 クラスを元にインスタンスを作成するときは、```.new()```メソッドを使用します。  
@@ -38,12 +41,21 @@ moduleとはクラスとほとんど同じものですが、クラスのよう�
 
 - クラス変数  
 クラス変数とは、クラスを元に作成されたすべてのインスタンスで使用することのできる変数です。  
+
+(クラス変数の図)  
+https://github.com/Kazoo0330/worksample/blob/master/image3.JPG?raw=true  
+
 <br />  
+
+
 クラス変数の記述法：  
 **@@class_hoge = 'class_hoge'**  
 <br />  
 - インスタンス変数  
 クラス変数に対しインスタンス変数とは、クラスを元に作成されたそれぞれのインスタンスが固有で持つ変数です。クラス変数とは違い、複数のインスタンスそれぞれが違った固有のインスタンス変数及び処理（機能）を持っている状態です。  
+
+（インスタンス変数の図）  
+https://github.com/Kazoo0330/worksample/blob/master/image2.JPG?raw=true  
 <br />  
 インスタンス変数の記述法：  
 **@instance_hoge = 'instandce_hoge'**  
@@ -56,7 +68,8 @@ moduleとはクラスとほとんど同じものですが、クラスのよう�
 クラス自身が使用できるメソッドです。このメソッドはクラス自身をレシーバとして働きます。  
 <br />  
 クラスメソッドの記述法：  
-```class Hoge  
+```  
+class Hoge  
       def self.hoge  
         "hoge"  
       end  
