@@ -19,7 +19,7 @@ lambdaを学ぶ前に、必ず理解しておかなければならない項目�
 インスタンス  = 設計図（クラス）を元に作成されたもの  
 
 （クラス、インスタンスの図）  
-https://i.gyazo.com/99cfd88e063d91950c122f3e87521869.png
+[![https://gyazo.com/645bc77e45ad6410be7bef7330dfc710](https://i.gyazo.com/645bc77e45ad6410be7bef7330dfc710.png)](https://gyazo.com/645bc77e45ad6410be7bef7330dfc710)
 
 <br />  
 
@@ -43,7 +43,7 @@ moduleとはクラスとほとんど同じものですが、クラスのよう�
 クラス変数とは、クラスを元に作成されたすべてのインスタンスで使用することのできる変数です。  
 
 (クラス変数の図)  
-https://i.gyazo.com/6f67aeb76011510401f48d10376af720.png  
+[![https://gyazo.com/6f67aeb76011510401f48d10376af720](https://i.gyazo.com/6f67aeb76011510401f48d10376af720.png)](https://gyazo.com/6f67aeb76011510401f48d10376af720)  
 
 <br />  
 
@@ -55,7 +55,7 @@ https://i.gyazo.com/6f67aeb76011510401f48d10376af720.png
 クラス変数に対しインスタンス変数とは、クラスを元に作成されたそれぞれのインスタンスが固有で持つ変数です。クラス変数とは違い、複数のインスタンスそれぞれが違った固有のインスタンス変数及び処理（機能）を持っている状態です。  
 
 （インスタンス変数の図）  
-https://i.gyazo.com/5549502b4e6f1bc278a6c806f0bf50ec.png  
+[![https://gyazo.com/5549502b4e6f1bc278a6c806f0bf50ec](https://i.gyazo.com/5549502b4e6f1bc278a6c806f0bf50ec.png)](https://gyazo.com/5549502b4e6f1bc278a6c806f0bf50ec)  
 <br />  
 インスタンス変数の記述法：  
 **@instance_hoge = 'instandce_hoge'**  
