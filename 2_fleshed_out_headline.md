@@ -19,7 +19,7 @@ lambdaを学ぶ前に、必ず理解しておかなければならない項目�
 インスタンス  = 設計図（クラス）を元に作成されたもの  
 
 （クラス、インスタンスの図）  
-https://github.com/Kazoo0330/worksample/blob/master/image1.JPG?raw=true
+[![https://gyazo.com/645bc77e45ad6410be7bef7330dfc710](https://i.gyazo.com/645bc77e45ad6410be7bef7330dfc710.png)](https://gyazo.com/645bc77e45ad6410be7bef7330dfc710)
 
 <br />  
 
@@ -43,7 +43,7 @@ moduleとはクラスとほとんど同じものですが、クラスのよう�
 クラス変数とは、クラスを元に作成されたすべてのインスタンスで使用することのできる変数です。  
 
 (クラス変数の図)  
-https://github.com/Kazoo0330/worksample/blob/master/image3.JPG?raw=true  
+[![https://gyazo.com/6f67aeb76011510401f48d10376af720](https://i.gyazo.com/6f67aeb76011510401f48d10376af720.png)](https://gyazo.com/6f67aeb76011510401f48d10376af720)  
 
 <br />  
 
@@ -55,7 +55,7 @@ https://github.com/Kazoo0330/worksample/blob/master/image3.JPG?raw=true
 クラス変数に対しインスタンス変数とは、クラスを元に作成されたそれぞれのインスタンスが固有で持つ変数です。クラス変数とは違い、複数のインスタンスそれぞれが違った固有のインスタンス変数及び処理（機能）を持っている状態です。  
 
 （インスタンス変数の図）  
-https://github.com/Kazoo0330/worksample/blob/master/image2.JPG?raw=true  
+[![https://gyazo.com/5549502b4e6f1bc278a6c806f0bf50ec](https://i.gyazo.com/5549502b4e6f1bc278a6c806f0bf50ec.png)](https://gyazo.com/5549502b4e6f1bc278a6c806f0bf50ec)  
 <br />  
 インスタンス変数の記述法：  
 **@instance_hoge = 'instandce_hoge'**  
@@ -133,7 +133,7 @@ Procとは、先ほど説明したblockをインスタンスとしたもので�
 <br />  
 
 Procとblockの大きな違いはそれぞれの単語の頭文字を見ることでわかります。  
-クラスの頭文字は大文字です。このことから **Procはクラスである**　ことが推測できます。  
+クラスの頭文字は大文字です。このことから **Procはクラスである** ことが推測できます。  
 同様に、lambdaとblockは頭文字が小文字ですね。これは両者ともクラスではないからです。  
 
 <br />  
