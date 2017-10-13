@@ -71,29 +71,3 @@
 - 同じ記述を繰り返さないこと  
 
 ## Ruby on RailsでWebサイトを作成してみよう  
-
-# Ruby on Rails入門  
-## はじめに  
-
-### Ruby on Rails  
-### フレームワーク  
-### Ruby on Railsで何ができるのか  
-
-### 使用OS  
-- Mac  
-- Windows  
-
-### Web  
-- HTTP  
-- サーバ  
-- ブラウザ  
-- url  
-- HTML  
-- CSS  
-- CUI (Character User Interface)  
-- Terminal(ターミナル)とコマンドプロンプト  
-- コマンドライン  
-- テキストエディタ  
-- Git  
-
-## 実際にRuby on Rails を使用してWebサイトを作成する
