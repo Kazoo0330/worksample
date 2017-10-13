@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ruby on Rails入門   
 
 ## Ruby on Railsを始める前に  
@@ -72,7 +71,7 @@
 - 同じ記述を繰り返さないこと  
 
 ## Ruby on RailsでWebサイトを作成してみよう  
-=======
+
 # Ruby on Rails入門  
 ## はじめに  
 
@@ -83,7 +82,7 @@
 ### 使用OS  
 - Mac  
 - Windows  
-  
+
 ### Web  
 - HTTP  
 - サーバ  
@@ -98,4 +97,3 @@
 - Git  
 
 ## 実際にRuby on Rails を使用してWebサイトを作成する
->>>>>>> refs/remotes/origin/master
