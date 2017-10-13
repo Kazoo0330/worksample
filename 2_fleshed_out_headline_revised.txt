@@ -1,0 +1,3 @@
+lambda text content changed.
+issue#6
+lambda説明文 補足：テキスト末尾にreturnの解説追加予定
