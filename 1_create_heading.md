@@ -57,6 +57,7 @@
   - rbenv  
   - gem  
 
+
 - Ruby on Railsのインストール  
   - 初期に必要なアプリケーション  
   - bundler  
