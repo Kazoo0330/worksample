@@ -58,7 +58,7 @@ moduleとはクラスとほとんど同じものですが、クラスのよう�
 [![https://gyazo.com/5549502b4e6f1bc278a6c806f0bf50ec](https://i.gyazo.com/5549502b4e6f1bc278a6c806f0bf50ec.png)](https://gyazo.com/5549502b4e6f1bc278a6c806f0bf50ec)  
 <br />  
 インスタンス変数の記述法：  
-**@instance_hoge = 'instandce_hoge'**  
+**@instance_hoge = 'instance_hoge'**  
 <br />  
 ＊この変数にアクセスできるのは、initializeメソッドとオブジェクトであるインスタンスメソッドのみです。  
 
