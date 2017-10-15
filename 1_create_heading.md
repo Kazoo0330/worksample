@@ -34,7 +34,6 @@
   - Linux基礎  
   - AWS基礎  
 
-
 ## 開発環境  
 - 使用OS  
   - Mac  
@@ -56,7 +55,7 @@
   - rvm  
   - rbenv  
   - gem  
-
+  
 
 - Ruby on Railsのインストール  
   - 初期に必要なアプリケーション  
