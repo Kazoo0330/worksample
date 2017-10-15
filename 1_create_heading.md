@@ -15,7 +15,6 @@
       - Bootstrap  
   - JavaScript  
 
-
 ### バックエンドエンジニア  
 - バックエンドエンジニアの主な役割  
 - 必要な技術
@@ -57,7 +56,6 @@
   - rbenv  
   - gem  
 
-
 - Ruby on Railsのインストール  
   - 初期に必要なアプリケーション  
   - bundler  
@@ -70,4 +68,4 @@
 - 設定より規約 （convention over configuration)  
 - 同じ記述を繰り返さないこと  
 
-## Ruby on RailsでWebサイトを作成してみよう  
+## **Ruby on RailsでWebサイトを作成してみよう**  
