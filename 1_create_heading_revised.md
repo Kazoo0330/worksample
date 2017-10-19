@@ -23,5 +23,3 @@
 - Git  
 
 ## 実際にRuby on Railsを使用してWebサイトを作成する  
-
-### Kazuki Saito
