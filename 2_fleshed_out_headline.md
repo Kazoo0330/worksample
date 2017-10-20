@@ -202,7 +202,7 @@ lambda_test = lambda do |name|
   puts "Hello, #{name}!"  
 end   
 
-lambda_tet.call()  で実行してみます。  
+lambda_test.call()  で実行してみます。  
 => ArgumentError: wrong number of arguments (0 for 1)  
 ```  
 
