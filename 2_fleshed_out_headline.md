@@ -24,6 +24,7 @@ lambdaを学ぶ前に、必ず理解しておかなければならない項目�
 （クラス、インスタンスの図）  
 [![https://gyazo.com/645bc77e45ad6410be7bef7330dfc710](https://i.gyazo.com/645bc77e45ad6410be7bef7330dfc710.png)](https://gyazo.com/645bc77e45ad6410be7bef7330dfc710)
 
+
 <br />  
 
 クラスを元にインスタンスを作成するときは、```.new()```メソッドを使用します。  
